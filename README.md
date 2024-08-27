@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nandhini a passionate Infrastructure and Operations Engineer from India. My expertise lies in cloud infrastructure, CI/CD pipelines, containerization, and configuration management.
+- 👋 Hi, I’m Naga Nandhini Ramamoorthy a passionate Infrastructure and Operations Engineer from India. My expertise lies in cloud infrastructure, CI/CD pipelines, containerization, and configuration management.
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Devops
 - 💞️ Open to collaboration and knowledge sharing!
-- 📫 Reach me at nandhinirams1211@gmail.com
+- 📫 Reach me at https://www.linkedin.com/in/inandhini-in/
 
 
 <!---
